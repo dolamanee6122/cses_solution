@@ -67,7 +67,7 @@
 |                       | [Coin Combinations II](https://cses.fi/problemset/task/1636)          |           |       |           |       |
 |                       | [Removing Digits](https://cses.fi/problemset/task/1637)               |           |       |           |       |
 |                       | [Grid Paths](https://cses.fi/problemset/task/1638)                    |           |       |           |       |
-|                       | [Book Shop](https://cses.fi/problemset/task/1158)                     |           |       |           |       |
+|                       | [Book Shop](https://cses.fi/problemset/task/1158)                     |           |       |           |[link](https://github.com/R0ckGithub/cses_solution/blob/ronak/Ronak/cses_1158.cpp)|
 |                       | [Array Description](https://cses.fi/problemset/task/1746)             |           |       |           |       |
 |                       | [Counting Towers](https://cses.fi/problemset/task/2413)               |           |       |           |       |
 |                       | [Edit Distance](https://cses.fi/problemset/task/1639)                 |           |       |           |       |
