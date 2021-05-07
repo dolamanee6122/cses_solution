@@ -68,10 +68,10 @@
 | [Removing Digits](https://cses.fi/problemset/task/1637/)               |           |       | [View](/Dolamanee/cses1637.cpp) |       |
 | [Grid Paths](https://cses.fi/problemset/task/1638/)                    |           |       | [View](/Dolamanee/cses1638.cpp) |       |
 | [Book Shop](https://cses.fi/problemset/task/1158/)                     |           |       | [View](/Dolamanee/cses1158.cpp) |       |
-| [Array Description](https://cses.fi/problemset/task/1746/)             |           |       |                                 |       |
-| [Counting Towers](https://cses.fi/problemset/task/2413/)               |           |       |                                 |       |
-| [Edit Distance](https://cses.fi/problemset/task/1639/)                 |           |       |                                 |       |
-| [Rectangle Cutting](https://cses.fi/problemset/task/1744/)             |           |       |                                 |       |
+| [Array Description](https://cses.fi/problemset/task/1746/)             |           |       | [View](/Dolamanee/cses1746.cpp) |       |
+| [Counting Towers](https://cses.fi/problemset/task/2413/)               |           |       | [View](/Dolamanee/cses2413.cpp) |       |
+| [Edit Distance](https://cses.fi/problemset/task/1639/)                 |           |       | [View](/Dolamanee/cses1639.cpp) |       |
+| [Rectangle Cutting](https://cses.fi/problemset/task/1744/)             |           |       | [View](/Dolamanee/cses1744.cpp) |       |
 | [Money Sums](https://cses.fi/problemset/task/1745/)                    |           |       |                                 |       |
 | [Removal Game](https://cses.fi/problemset/task/1097/)                  |           |       |                                 |       |
 | [Two Sets II](https://cses.fi/problemset/task/1093/)                   |           |       |                                 |       |
@@ -315,3 +315,4 @@
 | [Functional Graph Distribution](https://cses.fi/problemset/task/2415/) |           |       |                                 |       |
 | [New Flight Routes](https://cses.fi/problemset/task/1685/)             |           |       |                                 |       |
 | [Grid Path Construction](https://cses.fi/problemset/task/2418/)        |           |       |                                 |       |
+
